@@ -1,0 +1,18 @@
+{
+  "name": "node_prject",
+  "version": "1.0.1",
+  "type": "commonjs",
+  "description": "this is my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul mishra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "canvas": "^3.1.2",
+    "dotenv": "^17.0.0",
+    "winston": "^3.17.0"
+  }
+}
